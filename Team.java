@@ -27,7 +27,6 @@ public class Team {
         
         
         
-       // if(arr1[0]=1&&arr2[1]=1){solve++;}
     }
     
 }
