@@ -4,7 +4,7 @@ public class BCoins {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        String [] arr = new String[3];
+        //String [] arr = new String[3];
         int A=0;
         int B=0;
         int C=0;
