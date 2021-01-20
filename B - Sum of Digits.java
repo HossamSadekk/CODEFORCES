@@ -6,7 +6,6 @@ public class BSumOfDigits {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String n = in.next();
-        int x=n.length();
         long m=0;
         int numOfspels=0;
         if(n.length()==1){System.out.println("0");
